@@ -1,9 +1,10 @@
 package main
 
 import (
-	"blockchain"
 	"fmt"
 	"strconv"
+
+	"github.com/jokerstudio/blockchain/blockchain"
 )
 
 func main() {
